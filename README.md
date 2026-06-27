@@ -4,3 +4,4 @@ My portfolio is in the beginning stages but will eventually showcase my work as 
 HTML has been validated
 CSS is responsive
 Multiple pages are active
+https://brendelasu.github.io/Brendel-Portfolio/
